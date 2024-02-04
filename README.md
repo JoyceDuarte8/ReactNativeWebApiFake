@@ -1,4 +1,4 @@
-
+AluraHub 
 
 O AluraHub é uma aplicação feita em React Native que permite salvar um perfil com informações como nome da pessoa e uma foto, e possibilita consultar um repositório que armazena dados.
 
@@ -30,6 +30,8 @@ Executar o Mobile
 # Execute em outro terminal (dentro da pasta AluraHub)
 $ expo start**
 
+*****************************************************
+CURSO DE ESTUDO DO ALURA
 
 Este projeto consiste do curso do Alura denominado "React Native: utilizando Web API". Link:
 O que é o AluraHub?https://cursos.alura.com.br/course/react-native-utilizando-web-api
